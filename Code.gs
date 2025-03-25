@@ -226,7 +226,7 @@ function getApiInfo() {
         example: `${deploymentUrl}?action=admin`
       }
     ],
-    contact: "Dibuat oleh Anthropic Claude",
+    contact: "Dibuat oleh Classy Indonesia Mandiri",
     lastUpdated: new Date().toISOString()
   };
 }
